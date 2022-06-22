@@ -1,7 +1,7 @@
 # 0x04. Typescript
 ```JavaScript``` ```TypeScript```
 
-```
+
 # Resources
 **Read or watch:**
 
@@ -52,4 +52,3 @@ Click to show/hide file contents
 
 Click to show/hide file contents
 
-```
